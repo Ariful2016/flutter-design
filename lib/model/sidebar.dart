@@ -10,6 +10,7 @@ class SidebarItem {
   Icon icon;
 }
 
+/// generate static item menu
 var sidebarItem = [
   SidebarItem(
     title: "Home",
